@@ -1,0 +1,26 @@
+D:\Facultate\An III (Semestrul II)\Informatica Industriala (II)\Laboratoare\Tema2\Client\Client\Client\bin\Debug\Client.exe.config
+D:\Facultate\An III (Semestrul II)\Informatica Industriala (II)\Laboratoare\Tema2\Client\Client\Client\bin\Debug\Client.exe
+D:\Facultate\An III (Semestrul II)\Informatica Industriala (II)\Laboratoare\Tema2\Client\Client\Client\bin\Debug\Client.pdb
+D:\Facultate\An III (Semestrul II)\Informatica Industriala (II)\Laboratoare\Tema2\Client\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Facultate\An III (Semestrul II)\Informatica Industriala (II)\Laboratoare\Tema2\Client\Client\Client\obj\Debug\Client.Form1.resources
+D:\Facultate\An III (Semestrul II)\Informatica Industriala (II)\Laboratoare\Tema2\Client\Client\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Facultate\An III (Semestrul II)\Informatica Industriala (II)\Laboratoare\Tema2\Client\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Facultate\An III (Semestrul II)\Informatica Industriala (II)\Laboratoare\Tema2\Client\Client\Client\obj\Debug\Client.exe
+D:\Facultate\An III (Semestrul II)\Informatica Industriala (II)\Laboratoare\Tema2\Client\Client\Client\obj\Debug\Client.pdb
+D:\Facultate\An III (Semestrul II)\Informatica Industriala (II)\Laboratoare\Tema2\Client\Client\bin\Debug\Client.exe.config
+D:\Facultate\An III (Semestrul II)\Informatica Industriala (II)\Laboratoare\Tema2\Client\Client\obj\Debug\Client.exe
+D:\Facultate\An III (Semestrul II)\Informatica Industriala (II)\Laboratoare\Tema2\Client\Client\obj\Debug\Client.pdb
+D:\Facultate\An III (Semestrul II)\Informatica Industriala (II)\Laboratoare\Tema2\Client\Client\bin\Debug\MyDatabase.mdf
+D:\Facultate\An III (Semestrul II)\Informatica Industriala (II)\Laboratoare\Tema2\Client\Client\bin\Debug\MyDatabase_log.ldf
+D:\Facultate\An III (Semestrul II)\Informatica Industriala (II)\Laboratoare\Tema2\Client\Client\bin\Debug\Client.exe
+D:\Facultate\An III (Semestrul II)\Informatica Industriala (II)\Laboratoare\Tema2\Client\Client\bin\Debug\Client.pdb
+D:\Facultate\An III (Semestrul II)\Informatica Industriala (II)\Laboratoare\Tema2\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Facultate\An III (Semestrul II)\Informatica Industriala (II)\Laboratoare\Tema2\Client\Client\obj\Debug\Client.Form1.resources
+D:\Facultate\An III (Semestrul II)\Informatica Industriala (II)\Laboratoare\Tema2\Client\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Facultate\An III (Semestrul II)\Informatica Industriala (II)\Laboratoare\Tema2\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Facultate\An III (Semestrul II)\Informatica Industriala (II)\Laboratoare\Tema2\Client\Client\obj\Debug\Client.priceForm.resources
+D:\Facultate\An III (Semestrul II)\Informatica Industriala (II)\Laboratoare\Tema2\Client\Client\obj\Debug\Client.patientForm.resources
+D:\Facultate\An III (Semestrul II)\Informatica Industriala (II)\Laboratoare\Tema2\Client\Client\obj\Debug\Client.programmeForm.resources
+D:\Facultate\An III (Semestrul II)\Z Internship\Proiect\Client\Client\bin\Debug\Client.exe.config
+D:\Facultate\An III (Semestrul II)\Z Internship\Proiect\Client\Client\obj\Debug\Client.exe
+D:\Facultate\An III (Semestrul II)\Z Internship\Proiect\Client\Client\obj\Debug\Client.pdb
